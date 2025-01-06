@@ -6,7 +6,7 @@ from imagecaption import GenerateImageComponents
 
 
 storage = storage.Client()
-bucket_name = "lgogula2024-cnd-storage-bucket"
+bucket_name = os.environ.get("CLOUD_BUCKET")
 
 app = Flask(__name__)
 
