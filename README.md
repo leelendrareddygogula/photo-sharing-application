@@ -27,6 +27,3 @@
   <li>‘/images/{image_name}’ - this URI displays the selected image in the HTML page</li>
 </li>
 </ol>
-
-<h3>Application URL</h3>
-<p>Click <a href='https://lgogula2024-cloud-native-1020820171534.us-east1.run.app/' target='_blank'>Here</a> to view application</p>
